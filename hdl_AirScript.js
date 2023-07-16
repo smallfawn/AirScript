@@ -1,7 +1,7 @@
 
 //海底捞小程序 for wps AirScript
 //抓域名https://superapp-public.kiwa-tech.com/ 请求头headers中_haidilao_app_token 填入envVariable
-const $ = Env("测试")
+const $ = Env("海底捞")
 let envVariable = ``
 let VariableList
 function task(i) {
